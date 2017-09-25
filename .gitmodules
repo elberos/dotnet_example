@@ -1,0 +1,8 @@
+[submodule "elberos_orm"]
+	path = Elberos/Orm
+	url = https://github.com/elberos/dotnet_orm
+
+[submodule "elberos_orm_mysql"]
+	path = Elberos/OrmMySql
+	url = https://github.com/elberos/dotnet_orm_mysql
+
